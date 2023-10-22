@@ -1,0 +1,1 @@
+[20-Oct-2023 04:25:49 UTC] Error de evento de reprogramación de cron para el gancho: litespeed_task_vpi. Código de error: could_not_set. Mensaje de error: No se ha podido guardar la lista de eventos del cron.. Datos: {"schedule":"litespeed_filter","args":[],"interval":60}
